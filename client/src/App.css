@@ -1,0 +1,35 @@
+body {
+  margin: auto 3em;
+}
+
+.flex {
+  display: flex;
+}
+
+.box {
+  box-sizing: border-box;
+  border: 1px solid black;
+  margin: 1em;
+  padding: 1em;
+  width: 300px;
+  display: inline-block;
+}
+
+.card {
+  height: 450px;
+}
+
+.search {
+  min-height: 450px;
+}
+
+li, .link{
+  margin: 0.5em auto;
+  text-decoration: underline;
+  color: blue;
+}
+
+li:hover, .link:hover {
+  cursor: pointer;
+  font-weight: bold;
+}
