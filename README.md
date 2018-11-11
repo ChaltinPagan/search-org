@@ -1,13 +1,14 @@
 # Search the Organization
 
-<img src="./search-org-screen-1.png" style="border: 1px solid black;">
+<img src="./search-screen-1.png" style="border: 1px solid black;">
 
 ## MVP Features:
 * View each person's information
 * Search history list for easy navigation
 
 ## Future Iterations
-* "Back" and "Forward" navigation buttons for seach history
+* Optimize how state is used to track search hsitory
+* "Back" and "Forward" navigation buttons for search history
 * Improved search parameters
     * Search by City
     * Search by Title
