@@ -25,11 +25,12 @@ Make sure you have the latest version of Node installed.
 
 1. Git clone this repository.
 2. Open a terminal to run the server.
+    * `cd search-org`
     * `npm install`
     * `npm start`
     * Visit `http://localhost:8000/company` to view the JSON response
 3. Open a second terminal to run the client.
-    * `cd client`
+    * `cd search-org/client`
     * `npm install`
     * `npm start`
     * Visit `http://localhost:3000` to view the app
